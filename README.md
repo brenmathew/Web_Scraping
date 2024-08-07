@@ -1,5 +1,5 @@
 
-The purpose of the following projects was to process textual data from a given HTML page, calculating the positive and negative score based on predefined set of strings and extracting the articles to an output
+The purpose of the following project was to process textual data from a given HTML page, calculating the positive and negative score based on predefined set of strings and extracting the articles to an output
 Excel file.
 
 # Libraries: 
